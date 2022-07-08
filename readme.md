@@ -3,7 +3,7 @@
 
 **Usage**: 
 
-    git clone https://github.com/p4b3l1t0/owasearch.git && mv owasearch
+    git clone https://github.com/p4b3l1t0/owasearch.git && cd owasearch
   
   ######
   
